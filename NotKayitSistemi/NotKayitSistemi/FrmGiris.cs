@@ -35,7 +35,12 @@ namespace NotKayitSistemi
 
                 frm.Show();
             }
-            baglanti.Close();
+            
+        }
+
+        private void FrmGiris_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
